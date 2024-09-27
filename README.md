@@ -10,7 +10,6 @@
 * [Sprints](#Sprints)
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 # Projeto (API) 
@@ -77,13 +76,12 @@ Requisitos não funcionais
 - Power BI / Jira / Canvas
   
 # Backlog do produto
-  
+
 <div align="center">
-    
+
 ![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
 ![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
 </div>
-
 
 # Burndown
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
@@ -128,15 +126,6 @@ Requisitos não funcionais
 - [ ] Documente instruções de uso;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
-
-# Funcionalidades e registros (vídeos e apresentações) das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
 # Competências desenvolvidas
 
