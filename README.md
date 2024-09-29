@@ -47,9 +47,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Sprints
 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 02/09/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+Sprint | Previsão | Status|
+|------|--------|------|
+|Kick Off | 02/09/2024 | concluido| 
 |00 | 30/09/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01|  14/10/2024| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 04/11/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -66,7 +66,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 Requisitos funcionais 
 - Mapear as possiveis cargas com maior potencial de movimentação em SJC   
 - Documentação
-- Backlog (UX)
+- Backlog 
 
   
 Requisitos não funcionais
